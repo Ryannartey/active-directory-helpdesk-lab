@@ -34,7 +34,7 @@ The lab includes:
 
 ### 1. Domain Controller Setup
 
-![DC Rename](screenshots/01-DC01-Rename.png)
+![DC Rename](./01-DC01-Rename.png)
 
 ![Static IP](screenshots/02-Static-IP-Configured.png)
 
