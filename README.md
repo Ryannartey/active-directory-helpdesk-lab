@@ -102,3 +102,8 @@ Created separate departments:
 - Password Security Enforcement
 - Network Drive Mapping
 - Windows Server Administration
+
+
+## Project Summary
+
+Built a Windows Server 2022 Active Directory lab to simulate real Help Desk and Junior System Administrator tasks, including user provisioning, group management, password resets, account disablement, password policies, account lockout policies, shared folder permissions, and mapped network drives.
